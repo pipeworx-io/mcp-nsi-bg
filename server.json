@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/nsi-bg",
+  "title": "Nsi Bg",
+  "description": "Bulgarian National Statistical Institute (НСИ / NSI) — Open Data API.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/nsi-bg",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-nsi-bg",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/nsi-bg/mcp"
+    }
+  ]
+}
