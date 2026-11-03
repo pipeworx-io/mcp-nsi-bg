@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nsi-bg",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bulgarian National Statistical Institute (НСИ / NSI) — Open Data API.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nsi-bg",
     "gatewaySlug": "nsi-bg",
-    "sourceHash": "v1-45954fb16ce15ad26a5c67e7f105435dcfecac61c572caa78e3f733a6c7464d3",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-5979434d375f5e834cf0b1b267fa858b5173643935d2d45785221e7dc75c9516",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
